@@ -1,1 +1,0 @@
-# Algoritmos_de_Optimizacion_Guillermo_Sanchez
